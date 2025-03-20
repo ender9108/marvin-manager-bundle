@@ -3,7 +3,7 @@
     "description": "",
     "type": "symfony-bundle",
     "licence": "MIT",
-    "version": "1.0.39",
+    "version": "1.0.0",
     "require": {
         "enderlab/tools-bundle": "1.0.0"
     },
