@@ -17,6 +17,7 @@ class ManagerMessageReference
     public const string REQUEST_STOP_DOCKER = 'request_stop_docker';
     public const string REQUEST_BUILD_DOCKER = 'request_build_docker';
     public const string REQUEST_EXECUTE_COMMAND_DOCKER = 'request_execute_command_docker';
+    public const string REQUEST_DISCOVER_DOCKER = 'request_discover_docker';
 
     public const string RESPONSE_INSTALL_DOCKER = 'response_install_docker';
     public const string RESPONSE_DECLARE_DOCKER = 'response_declare_docker';
